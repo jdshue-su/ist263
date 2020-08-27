@@ -1,0 +1,10 @@
+Joe Shue
+Week one summary
+
+	This week we learned about the "anatomy of the web." We learned how information can get sent from a personal computer, through the internet, to a server which gathers the data and sends it back to the user's computer using it's IP address. We also got into some of the hisory of the internet, and it's somewhat morbid roots, dating back to the cold war days in which the US wanted to have a reliable communications tool in case of a nuclear attack. 
+
+Midterm Question:
+HTTP Requests
+• What does the request need to have?
+
+I think this was the one thing that I had to go back and look up, and therefore would probably make a decent test question. 
