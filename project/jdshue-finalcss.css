@@ -1,0 +1,25 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color:#020974;
+    text-align: center;
+    list-style-position: inside;
+    
+
+}
+head {
+    background-color: oldlace;
+    background-size: larger;
+}
+body {background-color: #ED9831;
+}
+p {
+    background-color:#ED9831;
+    padding: 10px;
+}
+h2{
+    padding: 10px;
+    margin: 15px;
+    border: 2px  #ED9831;
+}
+
