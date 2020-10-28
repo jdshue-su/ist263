@@ -4,9 +4,16 @@
     color:#020974;
     text-align: center;
     list-style-position: inside;
+   
     
 
 }
+body {
+    background-image: url('media/dome-dark.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
 head {
     background-color: oldlace;
     background-size: larger;
@@ -17,9 +24,14 @@ p {
     background-color:#ED9831;
     padding: 10px;
 }
+h1{
+    border-color: orange;
+}
 h2{
     padding: 10px;
     margin: 15px;
     border: 2px  #ED9831;
+    background-color:white;
+;
 }
 
