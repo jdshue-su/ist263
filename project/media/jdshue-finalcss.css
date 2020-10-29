@@ -105,4 +105,9 @@ li{
 color:#ED9831;
 }
 
+img{
+    max-width: width 100%;
+    height: auto;
+}
+
 
