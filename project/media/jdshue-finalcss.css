@@ -31,7 +31,8 @@ head {
 }
 */
 p {
-    color:whitesmoke;
+    color:#00047A;
+    background-color: #C2C2C2;
     padding: 0px;
     display: flex;
     justify-content: center;
