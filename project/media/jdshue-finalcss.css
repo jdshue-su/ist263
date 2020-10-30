@@ -84,6 +84,8 @@ a{
 }
 
 .image{display: inline-block;
+    height:"80%";
+    width:"60";
 
 }
 div.image img{width:80%; height:80%;
@@ -104,6 +106,7 @@ ul{
 }
 li{
 color:#ED9831;
+background-color:#00047A;
 }
 
 img{
